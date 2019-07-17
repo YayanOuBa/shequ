@@ -71,6 +71,8 @@
 }
 .image {
 }
+.placeholder {
+}
 .button {
 }
 .primary_button {
@@ -89,6 +91,10 @@
 .arrow {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
   color:#000000;
   text-align:left;
 }
