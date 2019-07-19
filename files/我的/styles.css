@@ -677,7 +677,7 @@
 #u1484 {
   position:absolute;
   left:21px;
-  top:353px;
+  top:331px;
   width:359px;
   height:60px;
 }
@@ -708,7 +708,7 @@
 #u1486 {
   position:absolute;
   left:21px;
-  top:430px;
+  top:401px;
   width:359px;
   height:60px;
 }
@@ -4276,7 +4276,7 @@
 #u1736 {
   position:absolute;
   left:20px;
-  top:510px;
+  top:470px;
   width:360px;
   height:60px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -7394,4 +7394,112 @@
   top:0px;
   width:13px;
   white-space:nowrap;
+}
+#u1955_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u1955 {
+  position:absolute;
+  left:20px;
+  top:542px;
+  width:360px;
+  height:60px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u1956 {
+  position:absolute;
+  left:2px;
+  top:21px;
+  width:356px;
+  word-wrap:break-word;
+}
+#u1957_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:170px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u1957 {
+  position:absolute;
+  left:440px;
+  top:487px;
+  width:300px;
+  height:170px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u1958 {
+  position:absolute;
+  left:2px;
+  top:67px;
+  width:296px;
+  word-wrap:break-word;
+}
+#u1959 {
+  position:absolute;
+  left:380px;
+  top:572px;
+  width:0px;
+  height:0px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+}
+#u1959_seg0 {
+  position:absolute;
+  left:0px;
+  top:-4px;
+  width:64px;
+  height:8px;
+}
+#u1959_seg1 {
+  position:absolute;
+  left:47px;
+  top:-10px;
+  width:20px;
+  height:20px;
+}
+#u1960 {
+  position:absolute;
+  left:-20px;
+  top:-8px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
